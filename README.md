@@ -5,3 +5,11 @@
 
 **This Account is for School**<br>
 **My Unattached Github Account : [K-Sothearith](https://github.com/K-Sothearith)**
+
+## Github Stats
+<br>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=K-Rithz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=K-Rithz&layout=compact&langs_count=8&theme=tokyonight"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=K-Rithz&theme=tokyonight)
